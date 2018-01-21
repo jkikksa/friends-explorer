@@ -1,0 +1,9 @@
+export const FETCH_ERROR = 'FETCH_ERROR';
+export const FETCH_DATA = 'FETCH_DATA';
+export const INCREASE_COUNT = 'INCREASE_COUNT';
+export const LOCATION_CHANGE = '@@router/LOCATION_CHANGE';
+export const RESET_FILTER = 'RESET_FILTER';
+export const SET_AGE_FILTER = 'SET_AGE_FILTER';
+export const SET_COMPANY_FILTER = 'SET_COMPANY_FILTER';
+export const SET_GENDER_FILTER = 'SET_GENDER_FILTER';
+export const SET_NAME_FILTER = 'SET_NAME_FILTER';

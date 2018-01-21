@@ -1,0 +1,21 @@
+{
+  "data": {
+    "persons": [],
+    "isFetching": true,
+    "isFetchError": false
+  },
+  "filter": {
+    "visibleCardsCount": 30,
+    "ids": {
+      "/": {
+        "name": "",
+        "gender": "all",
+        "age": {
+          "from": 20,
+          "to": 40
+        },
+        "company": ""
+      }
+    }
+  }
+}
